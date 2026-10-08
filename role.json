@@ -1,25 +1,31 @@
 {
-  "accounts": [
+  "settings": {
+    "resellerTokenLimit": 7,
+    "ceoTokenLimit": 13,
+    "maxResellerPerCeo": 3
+  },
+  "developer": [
     {
-      "name": "developer",
-      "password": "kyzoxd",
-      "role": "developer",
-      "tokenLimit": 999999,
-      "resellerLimit": 999999
-    },
+      "username": "kyzo",
+      "password": "kyzo10",
+      "status": "active"
+    }
+  ],
+  "ceo": [
     {
-      "name": "CEO01",
-      "password": "password",
-      "role": "ceo",
-      "tokenLimit": 13,
-      "resellerLimit": 3
-    },
+      "username": "ceo1",
+      "password": "passwordceo",
+      "status": "active"
+    }
+  ],
+  "reseller": [
     {
-      "name": "Reseller01",
-      "password": "password",
-      "role": "reseller",
+      "username": "reseller1",
+      "password": "passwordreseller",
+      "createdBy": "ceo1",
+      "createdAt": "09/10/2026 17:00:00 WIB",
       "tokenLimit": 7,
-      "resellerLimit": 0
+      "status": "active"
     }
   ]
 }
