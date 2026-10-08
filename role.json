@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "name": "developer",
+      "password": "kyzoxd",
+      "role": "developer",
+      "tokenLimit": 999999,
+      "resellerLimit": 999999
+    },
+    {
+      "name": "CEO01",
+      "password": "password",
+      "role": "ceo",
+      "tokenLimit": 13,
+      "resellerLimit": 3
+    },
+    {
+      "name": "Reseller01",
+      "password": "password",
+      "role": "reseller",
+      "tokenLimit": 7,
+      "resellerLimit": 0
+    }
+  ]
+}
