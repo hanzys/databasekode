@@ -1,0 +1,39 @@
+{
+  "accounts": [
+    {
+      "code": "VERONIX-RESELLER-7X4K",
+      "role": "reseller",
+      "limit": 7,
+      "used": 0,
+      "active": true
+    },
+    {
+      "code": "VERONIX-RESELLER-9P2M",
+      "role": "reseller",
+      "limit": 7,
+      "used": 0,
+      "active": true
+    },
+    {
+      "code": "VERONIX-CEO-14Q8",
+      "role": "ceo",
+      "limit": 14,
+      "used": 0,
+      "active": true
+    },
+    {
+      "code": "VERONIX-CEO-72ZX",
+      "role": "ceo",
+      "limit": 14,
+      "used": 0,
+      "active": true
+    },
+    {
+      "code": "VERONIXKYZOOXDBYPAS",
+      "role": "developer",
+      "limit": null,
+      "used": 0,
+      "active": true
+    }
+  ]
+}
